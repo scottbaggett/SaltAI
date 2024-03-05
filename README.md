@@ -11,7 +11,7 @@ This repository offers a comprehensive suite of custom nodes for ComfyUI, a deve
 
 - **Vision**: To foster a flourishing AI ecosystem where the world’s best developers can build and share their work, thereby redefining how software is made, pushing innovation forward, and ensuring as many people as possible can benefit from the positive promise of AI technologies.
 
-- **Belief**: We are convinced that ComfyUI serves as a critical instrument in realizing our mission and vision. It offers a platform for exploring AI models' capabilities and limitations in an interactive, visually engaging manner, requiring no coding skills for exploration.
+- **Belief**: We believe that ComfyUI is a powerful tool that can help us achieve our mission and vision, by enabling anyone to explore the possibilities and limitations of AI models in a visual and interactive way, without coding if desired.
 
 By sharing our nodes and workflows, we aim to motivate and empower a broader audience to craft exceptional AI-driven content using ComfyUI.
 
